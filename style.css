@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Sekuya&display=swap');
+
+body{
+    background-color: #F97316;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Alfa Slab One", serif;
+    background-color:#C2410C;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Alfa Slab One", serif;
+    background-color: #C2410C;
+}
+
+p{
+    font-size: 20px;
+}
+
+.titulo{
+    background-color: #C2410C;
+}
+
+label{
+    font-size: 30px;
+}
+
+.caixa das aulas{
+    background-color:#C2410C;
+}
+
+.pagina1{
+    display: grid;
+    margin: 15%;
+    display: grid;
+    place-items: center;
+}
+
+#butao1{
+    border: 3px solid black;
+    margin: 10px 10px;
+    padding: 10px 40px;
+    border-radius: 500px;
+    background-color: #C2410C;
+    color: black;
+    font-size: 20px;
+    font-family: Impact;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.pagina1-0{
+    background-color: #C2410C;
+    
+}
+
+a{
+    color: black;
+    font-size: 28px;
+}
+
+.youtube-1{
+    display: grid;
+    place-items: center;
+}
+
+.paragrafos{
+    margin: 2%;
+    text-align: left;
+    
+}
+
+.texto-reto{
+    text-align: left;
+}
+
+    
