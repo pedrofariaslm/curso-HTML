@@ -1,7 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Sekuya&display=swap');
 
-body{
+.botao{
+    background-color: #C2410C;
+    border-color: #C2410C;
+    border-radius: 50px;
+    border-bottom: #C2410C;
+}
+
+body {
     background-color: #F97316;
+}
+
+.imagempg1{
+    display: grid;
+    place-items: center;
 }
 
 h1 {
@@ -16,8 +28,17 @@ h2 {
     background-color: #C2410C;
 }
 
+.pf1{
+    background-color: #C2410C;
+    border-color: #C2410C;
+    text-align: center;
+    width: 200px;
+    padding: 0%;
+    margin: 10px;
+}
+
 p{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .titulo{
@@ -59,7 +80,7 @@ label{
 
 a{
     color: black;
-    font-size: 28px;
+    font-size: 30px;
 }
 
 .youtube-1{
@@ -77,4 +98,19 @@ a{
     text-align: left;
 }
 
+.video{
+    display: grid;
+    margin: 5%;
+    display: grid;
+    place-items: center;
+}
+
+.lista1{
+    font-size: 30px;
+}
     
+.imagem2{
+    background-color: #C2410C;
+    border-radius: 100px;
+    border-color: #C2410C;
+}
